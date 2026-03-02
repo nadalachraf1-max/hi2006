@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
     <meta charset="UTF-8">
     <title>Web Dev Lab1</title>
-
+<link rel="stylesheet" herf="Style.css">
     <style>
         /* Style 1: Red color */
         .style1 {
@@ -37,7 +37,7 @@
 
     <h3 class="style1">Web Development (Lab1)</h3>
 
-    <p class="style2">Full name: Ali Ben Ali</p>
+    <p class="style2">Full name:  hidaya lachraf</p>
 
     <p class="style3">Age: 20 years old</p>
 
